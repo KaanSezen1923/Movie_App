@@ -66,7 +66,8 @@ This Movie App allows users to browse popular movies and search for specific fil
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/d8cf8238-82f8-4209-bcf3-f96e6325e471)
+![Ekran görüntüsü 2024-10-27 202409](https://github.com/user-attachments/assets/d4ba7f1c-736c-4221-951b-c043b01ca813)
+
 ![image](https://github.com/user-attachments/assets/608356e8-01c5-4e17-adae-3b599d65f164)
 
 
